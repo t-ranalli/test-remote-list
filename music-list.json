@@ -1,3 +1,22 @@
-{
-  "videoIDs":["MdZ2rziQNPQ", "sYMdkSzf2Ac", "R1wFeUzxExE"]
-}
+[
+  {
+    "musicID": "NYFCFFOlgTc",
+    "category": "CategoryTest1",
+    "title": "TitleTest1",
+    "artist": "ArtistTest1"
+  },
+  {
+    "musicID": "JxN0MAXBPQw",
+    "category": "CategoryTest2",
+    "title": "TitleTest2",
+    "artist": "ArtistTest2",
+    "organization": "OrgTest2",
+    "captions": "CaptionTest2"
+  },
+  {
+    "musicID": "kQT2dqib59E",
+    "category": "CategoryTest3",
+    "title": "TitleTest3",
+    "artist": "ArtistTest3"
+  }
+]
